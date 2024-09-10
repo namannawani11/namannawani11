@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @namannawani
-- 👀 I’m interested in autonomus vehicles and marketing mix modelling
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m naman.
+- 👀 I’m interested in data science and analytics projects
+- 🌱 I’m currently working as a data scientist in retail domain.
+- 💞️ I’m looking for job opportunites. 
+- 📫 You can see my contributions over here and i am open to new challenges.
+- my email is --namannawani11@gmail.com
 
-<!---
-namannawani11/namannawani11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
